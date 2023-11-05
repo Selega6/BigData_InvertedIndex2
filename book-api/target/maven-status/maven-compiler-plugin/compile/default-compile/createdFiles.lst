@@ -1,0 +1,8 @@
+org\example\DataManager.class
+org\example\Main.class
+org\example\SqliteReader.class
+org\example\Controller.class
+org\example\APISource.class
+org\example\Command.class
+org\example\DatabaseReader.class
+org\example\SparkWebService.class
