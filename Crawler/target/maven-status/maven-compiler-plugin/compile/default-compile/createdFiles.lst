@@ -1,0 +1,8 @@
+org\example\BatchDownloader.class
+org\example\Main.class
+org\example\Controller.class
+org\example\BookReader.class
+org\example\Controller$1.class
+org\example\DatalakeCreator.class
+org\example\GutenbergFileReader.class
+org\example\GuttenbergDatalakeCreator.class

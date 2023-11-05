@@ -1,0 +1,10 @@
+org\example\Datalake.class
+org\example\DatabaseWriter.class
+org\example\Main.class
+org\example\Associate.class
+org\example\Controller.class
+org\example\Datamart.class
+org\example\FileDatalake.class
+org\example\Book.class
+org\example\SqliteWriter.class
+org\example\Word.class
